@@ -1,0 +1,23 @@
+streamlit
+numpy
+opencv-python
+scikit-image
+shapely
+geopandas
+pyproj
+torch
+torchvision
+networkx
+matplotlib
+pillow
+
+# Optional (auto-detect georeferencing)
+# pytesseract requires the Tesseract OCR binary installed separately.
+pytesseract
+
+# Optional (GeoTIFF metadata support). On Windows this may require wheels.
+rasterio
+
+# Optional (bbox -> GeoTIFF)
+leafmap
+mercantile

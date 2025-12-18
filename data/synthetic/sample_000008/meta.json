@@ -1,0 +1,8 @@
+{
+  "size": 256,
+  "pitch": 8,
+  "keepouts_requested": 2,
+  "keepouts_placed": 2,
+  "boundary_area_px": 34567,
+  "target_area_px": 16547
+}
